@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيني في عينك والقلب بيميل
+> يا سهر ليلي وكل التفاصيل
+> نار الشوق بتكوي فيا
+> حبيبي انت الروح والنور في الليل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
