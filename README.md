@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/elly-kan-w-khalas-what-was-is-over/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Elly Kan W Khalas – What was is over](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
