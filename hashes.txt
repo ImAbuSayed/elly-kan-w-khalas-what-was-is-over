@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Elly Kan W Khalas – What was is over
+
+This log tracks the cryptographic history and versioning for the song **Elly Kan W Khalas – What was is over** (elly-kan-w-khalas-what-was-is-over).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:00:49.981934 | `v1` | `37019b1d69459ce3c685c13f5b1b595ea30c1844e04d56d648fccfde6772c495` | `a214ae417ae9055bf2f222b865de88bc073e4f27a6d3c8c3253a1400654a3b46` | `2026-05-09_elly-kan-w-khalas-what-was-is-over-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
